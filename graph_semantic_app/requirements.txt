@@ -1,0 +1,8 @@
+streamlit
+openai
+neo4j
+python-dotenv
+numpy
+networkx
+pyvis
+pandas
